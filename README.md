@@ -7,4 +7,8 @@ Caso tenha interesse seria um prazer recebe-lo no meu projeto!!!❤️✨
 
 https://emillybonfim.github.io/site-de-produtos/
 
+## Tecnologias Utilizadas
+* HTML5
+* CSS3
+
 
